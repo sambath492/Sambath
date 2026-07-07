@@ -1,0 +1,6 @@
+{
+  "name": "Thirukkural",
+  "description": "A complete, self-contained offline-first Thirukkural application featuring all 1330 couplets with explanations, search, browse, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
